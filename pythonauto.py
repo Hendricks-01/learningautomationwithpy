@@ -2,7 +2,7 @@
 print('hello world!')
 print('what is your name?')
 myname = input()
-print('it's good to meet you ' + myname)
+print('it is good to meet you ' + myname)
 print('the length of your name is ' + str(len(myname)))
 print('what is your age?')
 myage = input()
